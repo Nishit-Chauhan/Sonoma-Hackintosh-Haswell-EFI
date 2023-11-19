@@ -15,7 +15,7 @@
 - amfi_get_out_of_my_way=0x1 - Add To fix Haswell graphics fix using OCLP
 - ipc_control_port_options=0 - Add to fix crashing issue of some apps(Skype, Whatsapp, Spotify, etc)
 
-![screenshot](https://github.com/Nishit-Chauhan/Sonoma-Hackintosh-Haswell-EFI/assets/45855322/6e030ec6-68e7-44ad-8f8b-c0d90db50a6c)
+![screenshot](https://github.com/Nishit-Chauhan/Sonoma-Hackintosh-Haswell-EFI/assets/45855322/68bb6165-9d1b-4967-a6a2-846abf4ab6a1)
 
 ## Improvements
 - This version was prepared using OpenCore 0.8.5 for MacOS Sonoma.
