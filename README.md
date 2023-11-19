@@ -18,4 +18,4 @@
 ![screenshot](https://github.com/Nishit-Chauhan/Sonoma-Hackintosh-Haswell-EFI/assets/45855322/68bb6165-9d1b-4967-a6a2-846abf4ab6a1)
 
 ## Improvements
-- This version was prepared using OpenCore 0.8.5 for MacOS Sonoma.
+- This version was prepared using OpenCore 0.9.6 for MacOS Sonoma.
