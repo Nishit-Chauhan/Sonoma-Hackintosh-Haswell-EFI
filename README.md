@@ -15,6 +15,15 @@
 ## Note
 - amfi_get_out_of_my_way=0x1 - Add To fix Haswell graphics fix using OCLP
 - ipc_control_port_options=0 - Add to fix crashing issue of some apps(Skype, Whatsapp, Spotify, etc)
+
+## Disable SIP follow below steps before run OCLP (If OCLP complains about SIP)
+ - sudo spctl --master-disable 
+ - restart, on recovery, choose ultility, terminal add:
+ - csrutil disable
+ - csrutil authenticated-root disable
+ - restart
+ - Run opencore legacy patcher
+   
 ## MacPro7,1
 ![screenshot](https://github.com/Nishit-Chauhan/Sonoma-Hackintosh-Haswell-EFI/assets/45855322/68bb6165-9d1b-4967-a6a2-846abf4ab6a1)
 
